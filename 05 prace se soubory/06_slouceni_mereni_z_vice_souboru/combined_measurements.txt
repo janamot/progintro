@@ -1,0 +1,14 @@
+2026-09-15 08:00;20.4
+2026-09-15 12:00;21.7
+2026-09-15 16:00;22.1
+2026-09-16 08:00;20.8
+2026-09-16 12:00;23.1
+2026-09-16 20:00;19.7
+
+
+Report:
+2026-09-15: min 20.4, max 22.1, průměr 21.4 
+2026-09-16: min 19.7, max 23.1, průměr 21.2 
+
+Přeskočené vstupy: 
+05 prace se soubory\06_slouceni_mereni_z_vice_souboru\measurements_b.txt, řádek 3: chyba
