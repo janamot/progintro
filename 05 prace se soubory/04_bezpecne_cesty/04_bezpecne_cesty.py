@@ -43,7 +43,7 @@ def prejmenovani(folder_path):
         if prejmenovani_souhlas(file, nova_cesta):
             file.rename(nova_cesta)
 
-def main():
+def main(): 
     os.system('cls||clear')
     folder_path = input("složka:")
     prejmenovani(folder_path)
